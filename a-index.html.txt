@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <div id="container">
+
+        <div id="header">
+            Header Heading
+        </div>
+
+        <div id="navigation">
+            Navigation Heading
+        </div>
+
+        <div id="content">
+            <div id="section">
+                Section Heading
+
+                <div id="article">
+                    Article Heading
+                    <div id="article-h">
+                        h1, h2, h3
+                    </div>
+                    <div id="article-p">
+                        p 
+                    </div>
+                </div>
+            </div>
+            <aside id="aside">
+                Aside Heading
+            </aside>
+        </div>
+
+        <div id="footer">
+            Footer Heading
+        </div>
+
+    </div>
+</body>
+
+</html>
